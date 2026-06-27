@@ -1,13 +1,19 @@
-# Programa que Calcula notas
+## 🏫 Sistema de Cálculo de Média Escolar
 
-Programa criado com o intuito de somar as notas e no fim tornar essa nota a média. Se o aluno tirou a médio maior que 6, ele está aprovado, caso contrário, ele terá que fazer recuperação.
-A nota da recuperação irá substituir a menor nota tirada, e então irá somar com a nota restante, assim criando a média final.
-Se a média final for maior que 6, o aluno estará aprovado, caso contrário, o aluno será reprovado.
+Console application desenvolvida com o intuito de automatizar o cálculo de médias e gerenciar o fluxo de aprovação de alunos. 
+
+### 📌 Regras de Negócio:
+
+* **Aprovação Direta:** O aluno que atingir uma média superior a `6.0` é aprovado direto.
+* 
+* **Recuperação:** Caso a média seja inferior, o sistema abre o fluxo de recuperação.
+* 
+* **Cálculo da Média Final:** A nota da recuperação substitui automaticamente a menor nota tirada pelo aluno. Uma nova média é gerada e, se o resultado final for maior que `6.0`, o aluno é aprovado.
 
 ---------------------------------
 
-# Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
-## Linguagens: C
+* **Linguagem:** C
 
 
