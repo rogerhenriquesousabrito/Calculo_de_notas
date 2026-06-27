@@ -1,10 +1,14 @@
 ## 🛢️ Script completo do programa
 
+----------------------------------
+
 #include <stdio.h>
 
 int main()
 {
+
     float nota1, nota2, projeto_final, nota3, media, media_final;
+    
     
     printf("Informe a 1ºNota: ");
     scanf("%f", &nota1);
