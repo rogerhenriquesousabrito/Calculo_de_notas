@@ -17,5 +17,6 @@ Console application desenvolvida com o intuito de automatizar o cálculo de méd
 ### 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** C
+* **Programa:** VS CODE
 
 
