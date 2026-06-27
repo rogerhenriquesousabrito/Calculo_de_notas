@@ -1,5 +1,7 @@
 ## 🏫 Sistema de Cálculo de Média Escolar
 
+---------------------------------
+
 Console application desenvolvida com o intuito de automatizar o cálculo de médias e gerenciar o fluxo de aprovação de alunos. 
 
 ### 📌 Regras de Negócio:
